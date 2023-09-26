@@ -28,7 +28,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="asm64.asm">
+    <MASM Include="asm.asm">
       <Filter>源文件</Filter>
     </MASM>
   </ItemGroup>

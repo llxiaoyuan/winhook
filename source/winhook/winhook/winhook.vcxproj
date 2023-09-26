@@ -147,7 +147,7 @@
     <ClInclude Include="winhook.h" />
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="asm64.asm" />
+    <MASM Include="asm.asm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
